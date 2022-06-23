@@ -1,0 +1,117 @@
+.body0 {
+    background-image: url(../img/imgfundo/img001.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rebeccapurple;
+    }
+main{
+    margin-top: 20px;
+}
+.table {
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.527);
+    width: 70%;
+    color: rgb(210, 250, 248);
+    font-size: max(15px, 1.5vw);
+    border: 1px solid rgba(132, 139, 0, 0.219);
+
+}
+.imglogo{
+    width: 140px;
+    height: 140px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border: 3px solid rgba(132, 139, 0, 0.219);
+    border-radius: 50px;
+    background-color: rgba(37, 1, 66, 0.26); ;
+}
+.nomeesituacao{
+    border-radius: 20px;
+    border: 1px solid rgba(228, 235, 112, 0.219);
+
+    text-align: center;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.562);
+    color: rgb(255, 255, 255);
+    font-size: max(15px, 1.5vw);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.seja{
+    color: rgb(0, 212, 184);
+}
+.nometime{
+    padding-top: 7px;
+    font-size: max(15px, 1.5vw);
+    text-align: center;
+    height: 50px;
+    width: 30%;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.452);
+    border-radius: 50px;
+    border: 1px solid rgba(242, 255, 0, 0.555);
+}
+.icon {
+    background-image: url(../img/icon4.png);
+    background-position: center center;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+}
+
+.footer {
+    margin-top: 50px;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: rgb(34, 33, 33);
+    color: rgb(245, 147, 0);
+    text-align: center;
+    padding: 30px;
+    font-size: max(10px, 1.1vw);
+    /*position: fixed;
+            bottom:0;*/
+
+}   
+
+
+/*viewAguardValida*/
+body {
+    background-image: url(../img/imgfundo/imgAguard.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rebeccapurple;
+    }
+    .msgValid{
+    width: 70%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    margin-left: 50%;
+	transform: translateX(-50%);
+    border-radius: 50px;
+    padding: 5%;
+    font-size: max(15px, 2.5vw);
+    margin-top: 8%;
+    margin-bottom: 82px;
+}
+.footer {
+    margin-top: 50px;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    font-size: max(10px, 1.1vw);
+    /*position: fixed;
+            bottom:0;*/
+
+
+}

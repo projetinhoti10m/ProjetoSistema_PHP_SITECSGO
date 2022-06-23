@@ -1,0 +1,40 @@
+
+form{
+    width: auto;
+    
+   
+    
+   
+   margin-bottom: 15px;
+}
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+}
+main{
+    text-align: center;
+    margin-top: 10%;
+ }
+.icon {
+    background-image: url(../../img/icon4.png);
+    background-position: center center;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+}
+
+header{
+    
+    margin-top: 20%;
+}
+
+.caixanometime{
+    
+    padding-right: 50%;
+}
+
+.form-check{float: left;}

@@ -1,0 +1,59 @@
+/*escolherlogonome*/
+body {
+    background-image: url(../../img/imgfundo/ftime.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rebeccapurple;
+    }
+.container{
+    text-align: center;
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#nometime{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 30%;
+    transform: translateX(-20%);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    color: white;
+    
+}
+.caixalogo{
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.616);
+    border-radius: 50px;
+    border: 3px solid rgba(47, 0, 134, 0.322);
+    border-radius: 20px;
+}
+img{
+    margin-top: 2%;
+    width: 100px;
+    margin-bottom: 2%;
+    background-color: rgba(137, 43, 226, 0.103);
+    border-radius: 30px;
+    
+}
+.Nome{
+    transform: translateX(-50%);
+    margin-left: 50%;
+    width:80%;
+    background-color: rgba(0, 0, 0, 0.411);
+    height: auto;
+    border-radius: 100px;
+    border: 3px solid rgba(47, 0, 134, 0.322);
+    border-radius: 20px;
+}
+
+.icon {
+    background-image: url(../../img/icon4.png);
+    background-position: center center;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+}
+/*escolherlogonome*/

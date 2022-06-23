@@ -1,0 +1,136 @@
+body{
+    background-image: url(../../img/imgfundo/7.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/*body indexacesso*/
+.body0{
+    background-image: url(../../img/imgfundo/img002.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/*body indexacesso */
+.container {
+    text-align: center;
+    width: auto;
+
+}
+#btninscricao{
+    margin-bottom: 20px;
+    font-size: max(10px, 2.0vw);
+}
+.logo {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+.infoex {
+    width: 20%;
+}
+
+.info1 {
+
+    width: 100%;
+    height: 50%;
+    background-color: rgba(21, 0, 71, 0.363);
+    float: left;
+    border: 3px solid rgba(47, 0, 134, 0.322);
+    border-radius: 20px;
+    color: rgb(236, 214, 9);
+    font-size: max(5px, 1.0vw);
+}
+
+section {
+    padding-left: 5%;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+
+.info2 {
+    text-align: center;
+    width: 100%;
+    float: left;
+
+}
+
+.info3 {
+
+    margin-top: 10%;
+    float: left;
+    width: 100%;
+
+
+}
+
+h1 {
+    float: left;
+    margin-top: 100px;
+    padding-left: 100px;
+
+}
+
+.footer {
+    margin-top: 50px;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    font-size: max(10px, 1.1vw);
+    /*position: fixed;
+            bottom:0;*/
+
+
+}
+
+.h5t {
+    text-align: center;
+    color: rgb(236, 214, 9);
+    font-size: max(7px, 1.2vw);
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+.icon {
+    background-image: url(../../img/icon4.png);
+    background-position: center center;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+}
+
+.login {
+    margin-top: 30%;
+    width: 100%;
+}
+
+.btnlogin {
+    text-align: center;
+}
+
+#l {
+    color: aliceblue;
+    margin-bottom: 5%;
+}
+.nav-item{
+    color: aliceblue;
+}
+.txtf{
+    margin-bottom: 10px;
+}
+.textemail{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+}

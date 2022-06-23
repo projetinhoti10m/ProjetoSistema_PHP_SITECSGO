@@ -1,0 +1,49 @@
+
+body {
+    background-image: url(../../img/imgfundo/verifica.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rebeccapurple;
+    }
+main{
+   text-align: center;
+   margin-top: 5%;
+}
+.logoverifica{
+    border: 3px solid rgba(132, 139, 0, 0.219);
+    border-radius: 50px;
+    background-color: rgba(48, 0, 88, 0.26); ;
+}
+.pm{
+    margin-left: 20%;
+    transform: translateX(-15%);
+}
+#font{
+    font-size: 12px;
+}
+form{
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.616);
+    border-radius: 50px;
+    border: 3px solid rgba(133, 139, 0, 0.322);
+    transform: translateX(-15%);
+    color: white;
+    padding-bottom: 10px;
+}
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+}
+.txtfoter{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+}
