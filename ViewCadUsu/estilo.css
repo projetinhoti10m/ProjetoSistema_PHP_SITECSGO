@@ -1,0 +1,62 @@
+.body {
+    background-image: url(../img/imgfundo/img002.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: aqua;
+}
+
+main {
+    margin-top: 5%;
+    margin-bottom: 15%;
+
+}
+
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    position: fixed;
+            bottom:0;
+
+
+}
+
+#form {
+    width: 70%;
+    color: aliceblue;
+}
+.icon {
+    background-image: url(../img/icon4.png);
+    background-position: center center;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+}
+
+/*viewsucesso */
+.body2 {
+    background-image: url(../img/imgfundo/imgAguard.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rebeccapurple;
+    }
+.msgsucesso{
+    width: 70%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    margin-left: 50%;
+	transform: translateX(-50%);
+    border-radius: 50px;
+    padding: 5%;
+    font-size: max(27px, 2.5vw);
+    margin-top: 11%;
+    margin-bottom: 100px;
+}

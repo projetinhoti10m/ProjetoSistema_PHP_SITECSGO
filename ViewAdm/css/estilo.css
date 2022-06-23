@@ -1,0 +1,149 @@
+.body1 {
+    background-image: url(../../img/imgfundo/essa.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+ .form{
+    width: 50%;
+    margin-top: 200px;
+    margin-left: 28%;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 50px;
+    padding: 2%;
+    background-color: rgba(19, 0, 87, 0.267);
+     
+ }
+/* <---- lloginadm---->*/
+/* <---- AdmTimes---->*/
+.icon {
+    background-image: url(../../img/icon4.png);
+    background-position: center center;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+}
+.logotime{
+    width: 140px;
+    height: 140px;
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: max(0px, 22%);
+    border: 3px solid rgba(132, 139, 0, 0.219);
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.26); ;
+}
+
+.body2 {
+    background-image: url(../../img/imgfundo/adm.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.titulojogador{
+    color: aliceblue;
+}
+.teste{
+    color: aliceblue;
+    font-size: max(15px, 1.2vw);
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 5px;
+    width: 95%;
+    margin-left: px;
+}
+#main{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.form1{
+    background-color: rgba(0, 0, 0, 0.418);
+    color: aliceblue;
+    width: 95%;
+    padding-bottom: 10px;
+    border-radius: 20px;
+ }
+ 
+    .table1{
+        border-radius: 20px;
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.527);
+        width: 100%;
+        color: rgb(210, 250, 248);
+        font-size: max(15px, 1.5vw);
+        border: 1px solid rgba(132, 139, 0, 0.219);
+ }
+/* <---- Admgen---->*/
+.body3 {
+    background-image: url(../../img/imgfundo/adm.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.nometime{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 7px;
+    font-size: max(15px, 1.5vw);
+    text-align: center;
+    height: 50px;
+    width: 30%;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.452);
+    border-radius: 50px;
+    border: 1px solid rgba(242, 255, 0, 0.555);
+}
+.imglogo{
+    width: 140px;
+    height: 140px;
+    float: left;
+   
+    margin-bottom: 50px;
+    margin-right: max(0px, 30%);
+    border: 3px solid rgba(132, 139, 0, 0.219);
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.26); ;
+}
+.table {
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.527);
+    width: 70%;
+    color: rgb(210, 250, 248);
+    font-size: max(15px, 1.5vw);
+    border: 1px solid rgba(132, 139, 0, 0.219);
+
+}
+.situtime{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 7px;
+    font-size: max(15px, 1.5vw);
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    float: left;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.418);
+    border-radius: 50px;
+    border: 2px solid rgba(255, 187, 0, 0.555);
+}
+.validaemail{
+    font-size: max(15px, 1.5vw);
+    margin-top: 70px;
+    width: 45%;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.705);
+    border-radius: 50px;
+    border: 2px solid rgba(255, 187, 0, 0.555);
+}
+.titulocomo{
+    color: rgb(103, 255, 97);
+}
