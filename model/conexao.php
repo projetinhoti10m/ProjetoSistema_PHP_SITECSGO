@@ -1,8 +1,8 @@
 <?php
 
-$url = "major.mysql.database.azure.com";
-$usuario ="admti10m";
-$senha = "999237244_danilo";
+$url = "localhost";
+$usuario ="root";
+$senha = "";
 $nomeBanco ="major";
 
 $conn = mysqli_connect($url,$usuario,$senha,$nomeBanco);
