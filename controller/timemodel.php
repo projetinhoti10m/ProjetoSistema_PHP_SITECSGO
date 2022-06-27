@@ -61,7 +61,7 @@ function verificaAcesso($conn,$email){
 }
 
 function buscaTimeCodigo($conn,$codigoTime){
-    $query = "select * from tbtime where codigoTimes={$codigoTime}";
+    $query = "select * from tbTime where codigoTimes={$codigoTime}";
     $resultado = mysqli_query($conn, $query); 
     $row =mysqli_fetch_assoc($resultado);
     return $row;

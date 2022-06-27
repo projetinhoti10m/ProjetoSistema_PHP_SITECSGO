@@ -6,16 +6,16 @@ body{
     background-size: cover;
 }
 .container {
-    margin-top: 20px;
+    margin-top: 70px;
     text-align: center;
-    
+    margin-bottom: 50px;
 
 }
 .txtf{
     margin-bottom: 10px;
 }
 .footer {
-    margin-top: 200px;
+    margin-top: 20px;
     float: left;
     width: 100%;
     height: auto;
@@ -48,6 +48,40 @@ button{
     width: auto;
     height: 80px;
 }
-.dropdown{
-    margin-top: 10px;
+.infoajuda{
+    float: right;
+    padding: 5px;
+    width: 30%;
+    background-color: rgba(34, 33, 33, 0.616);
+    color: rgb(255, 240, 172);
+    font-size: max(15px, 1.2vw);
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 45%;
+    transform: translateX(-40%);
+    
+}
+
+
+.insta{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#faq1{
+    margin-top: 25px;
+    width: 80%;
+   
+}
+.faq1{
+        font-size: max(12px, 1.5vw);
+
+}
+.seta{
+    float: right;
+}
+.cx_p{
+    margin-left: 45%;
+    transform: translateX(-40%);
 }
